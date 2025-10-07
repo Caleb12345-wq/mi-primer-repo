@@ -59,9 +59,3 @@ El programa se repite hasta que el usuario seleccione “Salir”.
 5. Salir
 
 Gracias.
-
-
-
-Se encargan de leer y escribir los datos en el archivo productos.txt.
-
-Usan stringstream para convertir los datos entre texto y números.
